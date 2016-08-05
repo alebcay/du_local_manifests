@@ -1,0 +1,10 @@
+<manifest>
+  <remove-project name="platform/ndk" />
+  <project path="ndk" name="crystax/android-platform-ndk" remote="github" revision="master" />
+  
+  <!-- <remove-project name="android_bionic" />
+  <project path="bionic" name="crystax/android-platform-bionic" remote="github" revision="master" /> -->
+  
+  <project path="external/x264" name="crystax/android-vendor-x264" remote="github" revision="master" />
+  <!-- <project path="vendor/ffmpeg" name="crystax/android-vendor-ffmpeg" remote="github" revision="master" /> -->
+</manifest>

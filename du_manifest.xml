@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="DirtyUnicorns/android_device_oneplus_bacon" path="device/oneplus/bacon" remote="github" revision="m-caf" />
+  <project name="DirtyUnicorns/android_device_oppo_common" path="device/oppo/common" remote="github" revision="m-caf" />
+  <project name="DirtyUnicorns/android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="github" revision="m-caf" />
+  <project name="DirtyUnicorns/android_vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="github" revision="m-caf" />
+  <project name="DirtyUnicorns/android_vendor_oneplus" path="vendor/oneplus" remote="github" revision="m-caf" />
+  <project name="DirtyUnicorns/android_device_huawei_angler" path="device/huawei/angler" remote="github" revision="m" />
+  <project name="DirtyUnicorns/android_kernel_huawei_angler" path="kernel/huawei/angler" remote="github" revision="m" />
+  <project name="DirtyUnicorns/android_vendor_huawei" path="vendor/huawei" remote="github" revision="m" />
+  <project name="DirtyUnicorns/android_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="m" />
+  <project name="DirtyUnicorns/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="m" />
+  <project name="DirtyUnicorns/android_vendor_lge" path="vendor/lge" remote="github" revision="m" />
+</manifest>

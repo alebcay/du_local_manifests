@@ -1,0 +1,9 @@
+<manifest>
+  <remove-project name="platform/prebuilts/ndk" />
+  <project path="prebuilts/ndk" name="dragon-tc/android_prebuilts_ndk" remote="github" revision="master" />
+
+  <remove-project name="platform/frameworks/rs" />
+  <project path="frameworks/rs" name="dragon-tc/android_frameworks_rs" remote="github" revision="master" />
+
+  <project path="prebuilts/clang/linux-x86/host/4.0" name="alebcay/android_prebuilts_clang_linux-x86_host_4.0" remote="github" revision="master" />
+</manifest>

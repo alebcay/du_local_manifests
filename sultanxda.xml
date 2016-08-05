@@ -1,0 +1,9 @@
+<manifest>
+<!-- <remove-project name="DirtyUnicorns/android_kernel_oneplus_msm8974" />
+<project path="kernel/oneplus/msm8974" name="sultanxda/android_kernel_oneplus_msm8974" remote="github" revision="cm-13.0-caf" />
+
+<remove-project name="DirtyUnicorns/android_vendor_oneplus" />
+<project path="vendor/oneplus" name="sultanxda/proprietary_vendor_oneplus" remote="github" revision="cm-13.0-sultan" />
+
+<project path="external/sony/boringssl-compat" name="sultanxda/android_external_sony_boringssl-compat" remote="github" revision="cm-13.0" /> -->
+</manifest>

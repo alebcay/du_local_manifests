@@ -1,0 +1,16 @@
+<manifest>
+  <remove-project name="android_bionic" />
+  <remove-project name="platform/dalvik" />
+  <remove-project name="platform/art" />
+  <remove-project name="platform/external/sqlite" />
+  <remove-project name="platform/external/dhcpcd" />
+
+  <remote name="linaro" fetch="git://android.git.linaro.org/" review="review.android.git.linaro.org" />
+  <remote name="linaro-other" fetch="git://git.linaro.org/" />
+  
+  <project path="bionic" name="platform/bionic" revision="linaro-android-6.0.1" remote="linaro"/>
+  <project path="dalvik" name="platform/dalvik" revision="marshmallow-dr-dragon-release" remote="linaro" />
+  <project path="art" name="platform/art" revision="linaro-android-6.0.1" remote="linaro" />
+  <project path="external/sqlite" name="platform/external/sqlite" revision="linaro-upstream-3.12.2" remote="linaro" />
+  <project path="external/dhcpcd" name="platform/external/dhcpcd-6.8.2" revision="master" remote="linaro" />
+</manifest>
