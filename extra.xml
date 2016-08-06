@@ -105,4 +105,6 @@
   <project path="external/zip" name="CyanogenMod/android_external_zip" remote="github" revision="cm-13.0" />
   <!-- <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" remote="github" revision="cm-13.0" /> -->
   <project path="external/powerdebug" name="UDOOboard/android_external_powerdebug" remote="github" revision="android-6.0.1" />
+
+  <project path="packages/apps/CameraNext" name="alebcay/android_packages_apps_CameraNext" remote="github" revision="master" />
 </manifest>
