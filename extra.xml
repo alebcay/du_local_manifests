@@ -107,4 +107,5 @@
   <project path="external/powerdebug" name="UDOOboard/android_external_powerdebug" remote="github" revision="android-6.0.1" />
 
   <project path="packages/apps/CameraNext" name="alebcay/android_packages_apps_CameraNext" remote="github" revision="master" />
+  <project path="packages/apps/Music" name="alebcay/android_packages_apps_Music" remote="github" revision="master" />
 </manifest>
