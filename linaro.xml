@@ -3,7 +3,7 @@
   <remove-project name="platform/dalvik" />
   <remove-project name="platform/art" />
   <remove-project name="platform/external/sqlite" />
-  <remove-project name="platform/external/dhcpcd" />
+  <remove-project name="android_external_dhcpcd" />
 
   <remote name="linaro" fetch="git://android.git.linaro.org/" review="review.android.git.linaro.org" />
   <remote name="linaro-other" fetch="git://git.linaro.org/" />
