@@ -7,6 +7,6 @@
 <remove-project name="arm-linux-androideabi-4.9" />
 <project name="ArchiDroid/Toolchain" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="github" revision="uber-4.9-arm-linux-androideabi" groups="pdk,linux,arm" />
 
-<project name="DespairFactor/arm-eabi-5.x" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" remote="bitbucket" revision="master" />
+<project name="ArchiDroid/Toolchain" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" remote="github" revision="uber-4.9-arm-linux-androideabi" />
 <!-- <project name="hyper-toolchains/arm-linux-androideabi-5.x" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="bitbucket" revision="UxSM" /> -->
 </manifest>
